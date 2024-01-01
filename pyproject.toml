@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "camara"
+name = "camara-py"
 version = "0.1.0"
 description = ""
 authors = ["avpps <avppsdev@gmail.com>"]
